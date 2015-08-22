@@ -1,21 +1,17 @@
 slogan: "Yet another bootstrap theme."
 
 menu:
-  - title: Archives
-    url: archives
-    intro: "All the articles."
+  - title: Blog
+    url: 
+    intro: "Blog"
     icon: "fa fa-archive"
-  - title: Categories
-    url: categories
-    intro: "All the categories."
-    icon: "fa fa-folder"
-  - title: Tags
-    url: tags
-    intro: "All the tags."
+  - title: Kontakt
+    url: contact
+    intro: "Kontakt"
     icon: "fa fa-tags"
-  - title: About
+  - title: O nas
     url: about
-    intro: "About me."
+    intro: "O nas."
     icon: "fa fa-user"
 
 links:
