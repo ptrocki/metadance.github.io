@@ -15,18 +15,10 @@ menu:
     icon: "fa fa-user"
 
 links:
-  - title: Freemind
-    url: https://github.com/wzpan/freemind/
-    intro: "Freemind's Github repository."
-    icon: "fa fa-github"
-  - title: "My Github"
-    url: http://www.github.com/wzpan
-    intro: "My Github account."
-    icon: "fa fa-github"
-  - title: "My LinkedIn"
-    url: http://www.linkedin.com/in/hahack
-    intro: "My Linkin account."
-    icon: "fa fa-linkedin"
+  - title: "Kocham Taniec na Facebooku"
+    url: https://www.facebook.com/kochamtaniecpl
+    intro: "Facebook"
+    icon: "fa fa-fb"
 
 widgets:
 - search
