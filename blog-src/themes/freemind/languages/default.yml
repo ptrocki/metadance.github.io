@@ -1,15 +1,15 @@
-categories: Categories
-search: Search
-tags: Tags
+categories: Kategories
+search: Szukaj
+tags: Tagi
 tagcloud: "Tag Cloud"
-tweets: Tweets
-prev: Prev
-next: Next
-comment: Comments
-archive_a: Archives
-archive_b: "Archives: %s"
-page: "Page %d"
-recent_posts: "Recent Posts"
-description: Description
-read_more: "Read More"
-links: Links
+tweets: Tweety
+prev: Poprzedni
+next: Nastepny
+comment: Komentarze
+archive_a: Archiwum
+archive_b: "Archiwum: %s"
+page: "String %d"
+recent_posts: "Aktualne wpisy"
+description: Opis
+read_more: "Czytaj wiecej"
+links: Linki
