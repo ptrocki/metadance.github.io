@@ -3,15 +3,25 @@
 <head>
 <title>Kocham Taniec</title>
 <meta charset="utf-8">
+<style>
+.container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -moz-transform: translateX(-50%) translateY(-50%);
+    -webkit-transform: translateX(-50%) translateY(-50%);
+    transform: translateX(-50%) translateY(-50%);
+}
+</style>
 </head>
 <body>
- <header style="margin:0 auto;width:800px;padding-top:100px;text-align:center;"> 
+ <header class="container"> 
  	<img src="logo.png"></img>
  </header>
  <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
  <script>
 	 $(function(){
-	    $("body").fadeOut(1000,function(){
+	    $("body").fadeOut(2000,function(){
 	       window.location.href = "http://kochamtaniec.pl/blog"
 	    })
 	 });
