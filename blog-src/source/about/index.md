@@ -15,9 +15,10 @@ Lubie sie zadreczac i chodzic bez koszulki.
 
 ### Martyna Serdela
 
+<img src="/blog/images/gienia.jpg"></img>
+
 Tancerka roznych tancow - w sumie nie pamietam. 
 Lubie gotowac i maltretowac parkiet (Tance irlandzkie)
 Na blogu bede prezentowac rozne rzeczy - w sumie to nic, ale fajnie jest miec
 dziewczyne na blogu.
 
-<img src="/blog/images/gienia.jpg"></img>
