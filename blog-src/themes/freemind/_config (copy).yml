@@ -18,17 +18,18 @@ links:
   - title: "Facebook"
     url: https://www.facebook.com/kochamtaniecpl
     intro: "Facebook"
-    icon: "fa fa-facebook"
+    icon: "fa fa-fb"
   - title: "Twitter"
     url: https://www.twitter.com/kochamtaniecpl
     intro: "twitter"
-    icon: "fa fa-twitter"
+    icon: "fa fa-tw"
 
 widgets:
+- search
 - category
-- tagcloud
 - recent_posts  
 - links
+- tagcloud
 
 rss: 
 fancybox: true
@@ -37,8 +38,8 @@ duoshuo_shortname:
 
 # Analytics
 google_analytics:
-  enable: false
-  siteid:
+  enable: true
+  siteid:UA-66865654-1
 baidu_tongji:
   enable: false
   siteid:
