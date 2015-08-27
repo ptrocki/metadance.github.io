@@ -1,7 +1,7 @@
+---
 title: 15 sposobów by zwiększyć wytrzymałość w tańcu
-description: Wytrzymalosc to kucz do sukcesu w tancu
 date: 2015-08-27 20:48:38
-tags: Wtrzymalosc Trening Podroze
+tags: Wtrzymalosc
 ---
 
 ### Wytrzymalosc to klucz do sukcesu w tancu
@@ -10,6 +10,7 @@ Zmęczenie może wpływać na twoje wyniki taneczne. Zmęczenie daje swe znaki n
 
 ![mem](/blog/images/wyrzymalosc.jpg)
 
+<!-- more -->
 
 ### Dbaj o odpowiednią ilości snu podczas podróży
 

@@ -1,4 +1,4 @@
-slogan: "Yet another bootstrap theme."
+slogan: "Kochamtaniec"
 
 menu:
   - title: Blog
@@ -25,14 +25,14 @@ links:
     icon: "fa fa-twitter"
 
 widgets:
-- category
-- tagcloud
-- recent_posts  
-- links
+  - category
+  - tagcloud
+  - recent_posts  
+  - links
 
 rss: 
 fancybox: true
-favicon: favicon.png
+favicon: favicon.ico
 duoshuo_shortname:
 
 # Analytics

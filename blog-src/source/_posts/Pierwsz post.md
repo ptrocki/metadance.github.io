@@ -1,6 +1,6 @@
 title: Pierwszy post
 date: 2015-08-27 14:48:38
-tags:
+tags: Wstep
 ---
 
 ### Witam na blogu
