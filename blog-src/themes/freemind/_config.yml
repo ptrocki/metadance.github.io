@@ -37,11 +37,5 @@ duoshuo_shortname:
 
 # Analytics
 google_analytics:
-  enable: false
-  siteid:
-baidu_tongji:
-  enable: false
-  siteid:
-
-# search
-swiftype_key: ZP2ZSuHgipSZfRyU8uTR
+  enable: true
+  siteid: UA-66865654-1
