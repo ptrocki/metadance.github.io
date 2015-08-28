@@ -1,5 +1,5 @@
 ---
-title: 15 sposobów by zwiększyć wytrzymałość w tańcu
+title: 9 sposobów by zwiększyć wytrzymałość w tańcu
 date: 2015-08-27 20:48:38
 tags: Wtrzymalosc
 ---
