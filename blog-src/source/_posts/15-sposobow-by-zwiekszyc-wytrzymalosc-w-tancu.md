@@ -1,12 +1,12 @@
 ---
 title: 9 sposobów by zwiększyć wytrzymałość w tańcu
 date: 2015-08-27 20:48:38
-tags: Wtrzymalosc
+tags: Wytrzymalosc
 ---
 
-### Wytrzymalosc to klucz do sukcesu w tancu
+### Wytrzymałość to klucz do sukcesu w tańcu
 
-Zmęczenie może wpływać na twoje wyniki taneczne. Zmęczenie daje swe znaki nawet osobom wysportowanym. Wielu tancerzy ignoruje również zmęczenie umysłowe oraz emocjonalne. Ponadto wielu tancerzy, którzy podróżują na turnieje lub zawody muszą radzić sobie ze zmęczenie spowodowane podróżą. Wytrzymałość jest istotna podczas zawodów tanecznych. Rozważcie sobie te 15 sposobów, które zwiększą waszą wytrzymałość podczas treningu oraz turnieji tanecznych. Sposób w jaki się przygotowujesz przed zawodami jest dosyć istotny.
+Zmęczenie może wpływać na twoje wyniki taneczne. Zmęczenie daje swe znaki nawet osobom wysportowanym. Wielu tancerzy ignoruje również zmęczenie umysłowe oraz emocjonalne. Ponadto wielu tancerzy, którzy podróżują na turnieje lub zawody muszą radzić sobie ze zmęczenie spowodowane podróżą. Wytrzymałość jest istotna podczas zawodów tanecznych. Rozważcie sobie te 9 sposobów, które zwiększą waszą wytrzymałość podczas treningu oraz turnieji tanecznych. Sposób w jaki się przygotowujesz przed zawodami jest dosyć istotny.
 
 ![mem](/blog/images/wyrzymalosc.jpg)
 
@@ -18,7 +18,7 @@ Zmęczenie może wpływać na twoje wyniki taneczne. Zmęczenie daje swe znaki n
 
 2.   Podróżują w jednej strefie czasowej możemy odczuwać zmęczenie, które jest spowodowane odwodnieniem organizmu. Również zdarza nam się często nie jeść żadnego posiłku podczas podróży. By temu zaradzić powinieneś pić i jeść trochę więcej niż zazwyczaj.
 
-3.   Twoje ciśnienie krwi obniża się ze względu na brak ruchu. Jest to jedna z przyczn zmęczenia, które występuje podczas podróży. Kiedy nie śpisz lub odpoczywasz postaraj się poruszać na fotelu, którym siedzisz. Jeśli jest to możliwe pospaceruj w środku transportu którym podróżujesz. 
+3.   Twoje ciśnienie krwi obniża się ze względu na brak ruchu. Jest to jedna z przyczyn zmęczenia, które występuje podczas podróży. Kiedy nie śpisz lub odpoczywasz postaraj się poruszać na fotelu, którym siedzisz. Jeśli jest to możliwe pospaceruj w środku transportu którym podróżujesz. 
 
 ![mem](/blog/images/child.jpg)
 
@@ -33,4 +33,4 @@ Zmęczenie może wpływać na twoje wyniki taneczne. Zmęczenie daje swe znaki n
 7.   Unikaj picia alkoholu oraz palenia papierosów przed zawodami, bowiem zwiększają one stężenie toksyn w organizmie.
 
 8.   Jedną z ważnych rzeczy, które nie jest wykonywana przez tancerzy jest rozgrzewka. Jest to kluczowy element, by unikać kontuzji oraz uzyskać lepszą sprawność ciała podczas zawodów. Podczas podróży niskie ciśnienie krwi, sprawia że mięśnie są słabo utlenione.  
-9.   Oddychaj głęboko. Płytki oddech zmniejsza ilość powietrza w organizmie, przez co czuje się bardziej zmęczony oraz zestresowany. Płytki oddech jest powszechnym zachowaniem, które jest niepożądane. Podczas treningu oddychaj głęboko przez nos lub wdychaj powietrze przez nos a wydychaj przez usta.  Upewnij się że klatka piersiowa podczas oddechu uniosła się oraz opadła. 
+9.   Oddychaj głęboko. Płytki oddech zmniejsza ilość powietrza w organizmie, przez co czuje się bardziej zmęczony oraz zestresowany. Płytki oddech jest powszechnym zachowaniem, które jest niepożądane. Podczas treningu oddychaj głęboko przez nos lub wdychaj powietrze przez nos a wydychaj przez usta.  Upewnij się że klatka piersiowa podczas oddechu uniosła się oraz opadła.
