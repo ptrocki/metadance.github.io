@@ -8,7 +8,7 @@ tags: Wytrzymalosc
 
 Zmęczenie może wpływać na twoje wyniki taneczne. Zmęczenie daje swe znaki nawet osobom wysportowanym. Wielu tancerzy ignoruje również zmęczenie umysłowe oraz emocjonalne. Ponadto wielu tancerzy, którzy podróżują na turnieje lub zawody muszą radzić sobie ze zmęczenie spowodowane podróżą. Wytrzymałość jest istotna podczas zawodów tanecznych. Rozważcie sobie te 9 sposobów, które zwiększą waszą wytrzymałość podczas treningu oraz turnieji tanecznych. Sposób w jaki się przygotowujesz przed zawodami jest dosyć istotny.
 
-![mem](/blog/images/wyrzymalosc.jpg)
+![mem](/blog/images/wytrzymalosc.jpg)
 
 <!-- more -->
 
