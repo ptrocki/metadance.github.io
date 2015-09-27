@@ -8,6 +8,8 @@ Czy nie zdarza się Tobie myśleć w ten sposób?  Tak często myślimy kiedy pi
 
 Wiele salsowych rytmów zmusza Cię do tańczenia w pocie czoła siedmiu, ośmiu lub czasem dziewięciu minut, gdzie doświadczony salseros czuje się komfortowo. Z biegiem czasu nauczysz się unikania utworów, które trwają bardzo długo. Wystarczy, że posłuchasz pierwszych uderzeń utworu i wtedy będziesz pewien, czy w tym momencie zrobić sobie przerwę.
 
+![mem](/blog/images/badDancers.gif)
+
 Nie mam zamiaru mówisz o tych tańcach, które trwają długo ponieważ muzyka sama w sobie jest długa; nauczysz się zarządzać nimi z czasem oraz dużą ilością improwizacji. Nie, nie zamierzam mówić o innych „DŁUGICH" tańcach.
 
 Teraz już wiesz, o czym będę mówić! Innymi słowy o rodzajach tańca, w których czujesz się, że nigdy się nie skończą, gdzie tortury trwają w nieskończoność. Gdzie na swojej twarzy próbujesz ukryć nieszczęście, znudzenie.
