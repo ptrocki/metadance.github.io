@@ -25,6 +25,7 @@ links:
     icon: "fa fa-twitter"
 
 widgets:
+  - aboutme
   - category
   - tagcloud
   - recent_posts  
