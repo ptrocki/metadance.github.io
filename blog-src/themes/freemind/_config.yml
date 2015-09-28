@@ -8,10 +8,10 @@ menu:
   - title: Kontakt
     url: contact
     intro: "Kontakt"
-    icon: "fa fa-tags"
-  - title: O nas
+    icon: "fa fa-envelope"
+  - title: O mnie
     url: about
-    intro: "O nas."
+    intro: "O mnie"
     icon: "fa fa-user"
 
 links:

@@ -1,4 +1,4 @@
-title: O nas
+title: O mnie
 date: 2015-08-22 19:45:59
 ---
 
