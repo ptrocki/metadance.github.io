@@ -58,4 +58,4 @@ _Stopień nieprzyjemności: 5-8_
 
 Jest oczywiście więcej sposób na sprawienie, by taniec był horrorem dla Ciebie, ale wydaje mi się, że większość z nich omówiłem tutaj. Głównym problemem jest to, że nie wiesz z kim masz do czynienia, dopóki z nim nie zatańczysz. Za każdym razem, kiedy tańczysz z osobą, z którą wcześniej nie tańczyłeś ryzykujesz spotkanie z wyżej wymienionymi typami tancerza. Dobrą wiadomością jest to, że w ciągu kilku minut tańca dowiesz się kim oni tak naprawdę są, tak więc tortury nie będą trwały zbyt długo.
 
-Którym z wyżej wymienionych typów się spotkałeś osobiście? Daj znać w komentarzu.
+Którym z wyżej wymienionych typów się spotkałeś osobiście? Daj znać w [komentarzu](https://www.facebook.com/kochamtaniecpl/posts/1497140653914936).
