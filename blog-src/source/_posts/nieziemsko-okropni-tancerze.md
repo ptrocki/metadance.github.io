@@ -6,11 +6,9 @@ tags:
 
 Czy nie zdarza się Tobie myśleć w ten sposób?  Tak często myślimy kiedy piosenka trwa nadzwyczajnie długo, a nam brakuję pomysłu na ruchy taneczne lub jesteśmy znudzeni tańczeniem wciąż tych samych kroków.
 
-Wiele salsowych rytmów zmusza Cię do tańczenia w pocie czoła siedmiu, ośmiu lub czasem dziewięciu minut, gdzie doświadczony salseros czuje się komfortowo. Z biegiem czasu nauczysz się unikania utworów, które trwają bardzo długo. Wystarczy, że posłuchasz pierwszych uderzeń utworu i wtedy będziesz pewien, czy w tym momencie zrobić sobie przerwę.
+Wiele salsowych rytmów zmusza Cię do tańczenia w pocie czoła siedmiu, ośmiu lub czasem dziewięciu minut, podczas gdy doświadczony salseros czuje się komfortowo. Z biegiem czasu nauczysz się unikania utworów, które trwają bardzo długo. Wystarczy, że posłuchasz pierwszych uderzeń utworu i wtedy będziesz pewien, czy w tym momencie zrobić sobie przerwę.
 
 ![mem](/blog/images/badDancers.gif)
-
-Nie mam zamiaru mówisz o tych tańcach, które trwają długo ponieważ muzyka sama w sobie jest długa; nauczysz się zarządzać nimi z czasem oraz dużą ilością improwizacji. Nie, nie zamierzam mówić o innych „DŁUGICH" tańcach.
 
 Teraz już wiesz, o czym będę mówić! Innymi słowy o rodzajach tańca, w których czujesz się, że nigdy się nie skończą, gdzie tortury trwają w nieskończoność. Gdzie na swojej twarzy próbujesz ukryć nieszczęście, znudzenie.
 
@@ -22,11 +20,11 @@ Teraz już wiesz, o czym będę mówić! Innymi słowy o rodzajach tańca, w kt�
 
 Niemiły tancerz, charakteryzujący się mocnym ściskiem, który się nigdy nie luzuje. Spotkania z **Pazurem** często kończą się zwichniętymi palcami, nadgarstkami a nawet ramionami wynikającymi z szybkich obrotów, które mógłby wykonać bardziej płynnie.
 
-_Miara nieprzyjemności : 7_
+_Stopień nieprzyjemności: 7_
 
 Od czasu do czasu daje o sobie znać nieprzyjemny zapach, który uwalnia się z różnych części ciała. Ta osoba z daleka może wydawać się atrakcyjna oraz jej nieprzyjemny zapach może nam nie przeszkadzać, lecz kiedy spotkasz tą osobę twarzą w twarz to sprawa wygląda zupełnie inaczej. Czasami można zidentyfikować taką osobę po plamach pod pachami lub latającymi muchami nad głową. Dobry węch również pozwoli Ci uniknąć niezręcznej sytuacji.
 
-_Miara nieprzyjemności: 9_
+_Stopień nieprzyjemności: 9_
 
 Przepięknie prowadzenie, przepięknie wykonany obrót, następnie przejście do drugiego obrotu… i BĘC. Pędzące z dużą prędkością włosy mogą być prawdziwym zagrożeniem bezpieczeństwa dla partnera jak i osób postronnych. Zadane obrażenia zależą od długości włosów, sposobu ich upięcia oraz prędkości.
 
@@ -52,10 +50,10 @@ Jego celem jest eliminacja wszystkich par za pomocą swojej partnerki. Partner b
 
 _Stopień nieprzyjemności: 15 (denerwuje nie tylko Ciebie ale i inne pary)_
 
-„Zaginiony chłopczyk" tańczy ciągłym "trybie wyszukiwania", który wiecznie szuka rytmu. W początkowej fazie nauki tańca każdy z nas ma z tym problem, lecz są i tacy, którzy nigdy chyba nie rozwiążą tego problemu, bez względu na to ile by nie tańczyli. Znają wiele figur oraz sztuczek, ale łączą je niczym pijana małpa wkładająca naczynia do zmywarki.
+„Zaginiony chłopczyk" tańczy ciągłym "trybie wyszukiwania", który wiecznie szuka rytmu. W początkowej fazie nauki tańca każdy z nas ma z tym problem, lecz są i tacy, którzy nigdy chyba nie rozwiążą tego problemu, bez względu na to ile by nie tańczyli. Znają wiele figur oraz ruchów, ale łączą je niczym pijana małpa wkładająca naczynia do zmywarki.
 
 _Stopień nieprzyjemności: 5-8_
 
 Jest oczywiście więcej sposób na sprawienie, by taniec był horrorem dla Ciebie, ale wydaje mi się, że większość z nich omówiłem tutaj. Głównym problemem jest to, że nie wiesz z kim masz do czynienia, dopóki z nim nie zatańczysz. Za każdym razem, kiedy tańczysz z osobą, z którą wcześniej nie tańczyłeś ryzykujesz spotkanie z wyżej wymienionymi typami tancerza. Dobrą wiadomością jest to, że w ciągu kilku minut tańca dowiesz się kim oni tak naprawdę są, tak więc tortury nie będą trwały zbyt długo.
 
-Którym z wyżej wymienionych typów się spotkałeś osobiście? Daj znać w [komentarzu](https://www.facebook.com/kochamtaniecpl/posts/1497140653914936).
+Którym z wyżej wymienionych typów się spotkałeś osobiście? Daj znać w [komentarzu](https://www.facebook.com/kochamtaniecpl/posts/1497235587238776).
