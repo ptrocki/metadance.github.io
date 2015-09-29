@@ -8,7 +8,7 @@ date: 2015-09-13 17:13:44
 
 ### Siedem powodów, dla których warto być tancerzem
 
-Bycie tancerzem nie jest takie łatwe, jakby się mogło wydać. Potrzeba wiele lat ciężkiej pracy, by stać się dobrym w tym co robisz. Jednak jestem pewien, że nie muszę Ci mówić jakim jesteś szczęściarzem, ponieważ istnieje wiele korzyści z bycia tancerzem, które po krótce wymienię. 
+Bycie tancerzem nie jest takie łatwe, jakby się mogło wydać. Potrzeba wiele lat ciężkiej pracy, by stać się dobrym w tym co robisz. Jednak jestem pewien, że nie muszę Ci mówić jakim jesteś szczęściarzem, ponieważ istnieje wiele korzyści z bycia tancerzem, które pokrótce wymienię. 
 
 
 ![mem](/blog/images/jak-wygladaja.png)
@@ -27,9 +27,9 @@ Wiele opublikowanych badań stwierdza że taniec jest jedyną aktywnością, kt�
 
 Taniec utrzymuje twój kontakt z ciałem, co jest ważne w dzisiejszej kulturze. Taniec również pomaga rozwijać twoje ciało i  umysł. Taniec jest najlepszą inwestycją w siebie, gdyż zmniejsza stres, poprawia twoje samopoczucie oraz daje ci możliwość auto-ekspresji.
 
-**4.	Taniec uczy umiejętności przetrwania** 
+**4.	Taniec uczy umiejętności survivalowych** 
 
-Taniec ulepsza odporność psychiczną oraz buduję determinację, ponieważ momentami jest trudny.  Nauczysz się, że należy próbować dopóki nie wykonamy danej figury poprawnie. Pamiętaj, by się nie poddawać się, nawet gdy coś nie idzie zgodnie z planem. Taniec daje również mnóstwo okazji, by wykazać się pomysłowością oraz kreatywnym myśleniem, zwłaszcza jeśli zamierzać tańczyć zawodowo.
+Taniec ulepsza odporność psychiczną oraz buduję determinację, ponieważ momentami jest ciężko.  Nauczysz się, że należy próbować dopóki nie wykonamy danej figury poprawnie. Pamiętaj, by się nie poddawać się, nawet gdy coś nie idzie zgodnie z planem. Taniec daje również mnóstwo okazji, by wykazać się pomysłowością oraz kreatywnym myśleniem, zwłaszcza jeśli zamierzać tańczyć zawodowo.
 
 **5.	Nigdy się nie zatrzymuj. Idź wciąż naprzód.** 
 
@@ -42,4 +42,4 @@ Zaangażowanie, umiejętności komunikacyjne, pasja, wytrwałość, zdolność d
 
 **7.	Będąc tancerzem poszerzasz swoje horyzonty** 
 
-Tancerze budują między sobą wspomnienia oraz przyjaźnie, które zostają na wiele lat. Być może dlatego że, tancerze spędzają ze sobą większość swojego wolnego czasu lub dlatego, że każdy z was stara się przekazać cząstkę siebie innemu tancerzowi. Gdziekolwiek się pojawisz i w twoim otoczeniu również zauważysz innego tancerza poczujecie, że macie wiele wspólnego ze sobą. To wspólne doświadczenie jest częścią bogatej historii tradycji i innowacji, która jednoczy tancerzy z całego świata. A ponieważ taniec jest głęboko zakorzeniony w naszej społeczności oraz kulturze, taniec buduje tolerancje i zrozumienie pomiędzy innymi ludźmi. To czyni Cię lepszym obywatelem świata. Tak więc życzę Ci szczęścia oraz wielu sukcesów w dalszej karierze tanecznej.
+Tancerze budują między sobą wspomnienia oraz przyjaźnie, które zostają na wiele lat. Być może dlatego że, tancerze spędzają ze sobą większość swojego wolnego czasu lub dlatego, że każdy z was stara się przekazać cząstkę siebie innemu tancerzowi. Gdziekolwiek się pojawisz i w twoim otoczeniu również zauważysz innego tancerza poczujecie, że macie wiele wspólnego ze sobą. To wspólne doświadczenie jest częścią bogatej historii tradycji i innowacji, która jednoczy tancerzy z całego świata. A ponieważ taniec jest głęboko zakorzeniony w naszej społeczności oraz kulturze, taniec buduje tolerancje i zrozumienie pomiędzy innymi ludźmi. To czyni Cię lepszym obywatelem świata. Tak więc życzę Ci szczęścia oraz wielu sukcesów w dalszej karierze tanecznej. Podziel się z nami swoją listą w [komentarzu](https://www.facebook.com/kochamtaniecpl/posts/1497237013905300).
