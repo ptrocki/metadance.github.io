@@ -14,6 +14,10 @@ description: Opis
 read_more: "Czytaj wiecej"
 links: Linki
 about: O mnie
-about_text: Piotr Trocki, 21 lat
-about_text_2: Pasjonat różnych stylów tańca Programista
+fanpage: Fanpage
+about_text: Piotr Trocki
+about_text_2: 
+	"Pasjonat tanca towarzyskiego. 
+	Z tancem zwiazany od 6 roku zycia. 
+	Na blogu prezentuje porady dla osob zaintesowanych tańcem oraz zdrowym trybem zycia."
 about_img: /blog/img/cutmypic.png

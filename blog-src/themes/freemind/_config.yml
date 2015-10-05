@@ -30,6 +30,7 @@ widgets:
   - tagcloud
   - recent_posts  
   - links
+  - fanpage
 
 rss: 
 fancybox: true
@@ -40,3 +41,19 @@ duoshuo_shortname:
 google_analytics:
   enable: true
   siteid: UA-66865654-1
+
+comment_provider: facebook
+# Facebook comment
+facebook:
+    appid: 403070956557717
+    comment_count: 20
+    comment_width: 840
+    comment_colorscheme: light
+
+addthis:
+    enable: true
+    pubid:
+    facebook: true
+    twitter: true
+    google: true
+    pinterest: true
