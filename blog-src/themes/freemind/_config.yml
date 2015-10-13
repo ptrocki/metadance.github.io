@@ -57,3 +57,8 @@ addthis:
     twitter: true
     google: true
     pinterest: true
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
