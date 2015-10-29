@@ -1,6 +1,7 @@
 title: Tańczyć czy nie tańczyć? Oto jest pytanie.
 date: 2015-10-05 13:18:14
 tags:
+- Poradniki
 ---
 
 Nasza przygoda taneczna rozpoczyna się w naszych głowach. Wyobrażamy sobie siebie wspaniale tańczących na deskach lub parkietach całego świata.

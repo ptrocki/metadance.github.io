@@ -1,8 +1,7 @@
 title: Siedem powodów, dla których warto być tancerzem
-tags:
-  - korzysci
-  - tanca
 date: 2015-09-13 17:13:44
+tags:
+  - O tancerzach
 ---
 
 

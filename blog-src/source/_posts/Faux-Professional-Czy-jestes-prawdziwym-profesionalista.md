@@ -1,6 +1,7 @@
 title: Faux Professional - Czy jesteś prawdziwym profesionalistą ?
 date: 2015-10-12 19:30:26
 tags:
+- O tancerzach
 ---
 
 Każdy z nas prezentuje różny poziom tańca. Pośród wielu tancerzy, cześć z nich tańczy naprawdę na wysokim poziomie. Te osoby najczęściej prowadzą własne szkoły tańca. Wyróżniają się one super techniką, muzykalnością oraz dużym doświadczeniem. Coraz częściej jednak mamy do czynienia z osobami(Faux Pro), które próbują się przypodobnić do wyżej wymienionych osób, pomimo braku umiejętności tanecznych.  Najczęściej Faux Pro posiadają nikłą wiedzę i umiejętności, lecz w ich mniemaniu są super tancerzami. Najczęściej FP nie są zagrożeniem dla grupy, w której się znajduje. Zdarzają się jednak przypadki, gdzie takie osoby szkodzą innym oraz całej tanecznej społeczności. Oczywiście niektórzy są nieświadomymi bycia FP. Oczywiście to nic strasznego, jeśli jesteś tego świadomy i chcesz się tego wyzbyć. Poniżej przedstawiam kilka wskazówek, które mogą Ci pomóc w identyfikacji takiej osoby:

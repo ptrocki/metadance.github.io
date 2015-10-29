@@ -1,6 +1,8 @@
 title: Dopada Cię zmęczenie ?
 date: 2015-10-22 13:13:52
 tags:
+- Poradnik
+- Zdrowie
 ---
 
 Zmęczenie z definicji jest niezdolnością do kontynuacji wysiłku fizycznego bądź psychicznego. Zmęczenie dotyka każdego z nas, gdyż jest to naturalna reakcja organizmu na nadmierne bodźce fizyczne lub psychiczne. Wtedy nasze ciało domaga się odpoczynku, lecz nie zawsze jest to możliwe, gdyż przed treningiem mamy szkołę bądź pracę. Tak więc, czy da się pogodzić codzienne obowiązki z tanecznymi treningami?

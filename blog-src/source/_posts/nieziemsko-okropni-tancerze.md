@@ -1,6 +1,7 @@
 title: Nieziemsko Okropni Tancerze
 date: 2015-09-27 17:35:23
 tags:
+- O tancerzach
 ---
 „O Boże! Kiedy ta cholerna piosenka się skończy ?"
 
