@@ -1,4 +1,4 @@
-title: 'Jest impreza, a ja nie umiem tańczyc...'
+title: 'Jutro impreza, a ja nie umiem tańczyc...'
 date: 2015-10-29 16:06:14
 tags:
 - Poradnik
