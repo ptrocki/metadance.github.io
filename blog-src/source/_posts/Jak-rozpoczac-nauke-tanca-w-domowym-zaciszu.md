@@ -8,6 +8,8 @@ tags:
 ---
 Nauka tańca w domu jest szczególnie polecana dla osób, które nie mają zbyt dużo wolnego czasu, nie mają z kim dzieci zostawić, są nieśmiałe itd. Niestety bardzo często zniechęcamy się, gdy coś nam nie wychodzi lub coś jest za trudne. W tej sytuacji możemy się poddać lub spróbować ponownie. Z racji tego, że bardzo chcemy nauczyć się tańczyć w domu kontynuujemy naukę tańca. Jednak po pewnym czasie ćwiczymy w domu coraz rzadziej i dochodzimy do momentu, w którym w ogóle nie trenujemy. Co warto wiedzieć przed rozpoczęciem nauki przez internet ?
 
+![mem](/blog/images/danceOnline.jpg)
+
 <!-- more -->
 
 W pierwszej kolejności powinieneś wybrać film instruktarzowy, który Ci najbardziej odpowiada i jest dla Ciebie przejrzysty. W sieci jest ich mnóstwo zarówno w języku polskim oraz angielskim, który nie jest mega trudny do zrozumienia. Jeśli ten film oglądasz na youtube to w ustawieniach filmu możesz zmienić jego szybkość, co znacznie ułatwi Ci powtórzenie sekwencji kroków. Pamiętaj by daną sekwencję powtórzyć kilkakrotnie samemu oraz dokładnie ją przeanalizować.
