@@ -109,9 +109,11 @@ body {
 
 @media screen and (min-width: 992px) {
     #main-nav {
-        min-height: 275px;
-        background-image: url("banner.jpg");
-        background-position: center;
+    min-height: 275px;
+    background: rgba(0,0,0,0) url("banner.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    border-color: #fff;
     }
 }
 .navbar-default .nav>li>a {
