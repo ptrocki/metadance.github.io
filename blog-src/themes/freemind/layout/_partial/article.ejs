@@ -2,11 +2,7 @@
 
 <div class="row <% if (post) { %>post<% } else { %>page<% } %>">
 		<!-- cols -->
-		<% if (post) { %>
-			<div class="col-md-9">
-		<% } else { %>
-			<div class="col-md-12">
-		<% } %>
+		<div class="col-md-12">
 
 		<% if (item.description) { %>
 			 <div class="alert alert-success description">
@@ -15,7 +11,7 @@
 		<% } %>		
 
 		<!-- content -->
-		<div class="mypage">		
+		<div class="mypage-article">		
 		    <%- item.content %>	  
 		</div>
 
@@ -28,11 +24,5 @@
 	<!-- comment -->
 	<%- partial('_partial/comment', {page: item}) %>
 	</div> <!-- col-md-9/col-md-12 -->
-
-
-	
-	<% if (post) { %>
-		<%- partial('post/meta', {item: item}) %>
-	<% } %>
 
 </div><!-- row -->
