@@ -35,22 +35,17 @@ body {
 }
 
 .content {
-    padding: 20px;
     margin: 20px -20px;
     /* negative indent the amount of the padding to maintain the grid system */
-    -webkit-border-radius: 6px 6px 6px 6px;
-    -moz-border-radius: 6px 6px 6px 6px;
-    border-radius: 6px 6px 6px 6px;
-    -webkit-box-shadow: 0 2px 10px rgba(0, 0, 0, .75);
-    -moz-box-shadow: 0 2px 102px rgba(0, 0, 0, .75);
-    box-shadow: 0 2px 10px rgba(0, 0, 0, .75);
+
 }
 
+/*Now I don't want to side bar*/
 #sidebar {
-    margin-left: 5px;
+/*    margin-left: 5px;
     padding-left: 15px;
     border-left: 1px solid #e0e0e0;
-    font-size: 0.9em;
+    font-size: 0.9em;*/
 }
 
 
@@ -69,7 +64,6 @@ body {
 .page,
 .post {
     line-height: 1.5em;
-    font-family: 'Open Sans', "Helvetica Neue", "Helvetica", Arial, sans-serif;
 }
 
 .page .more {
@@ -82,8 +76,6 @@ body {
 }
 
 .mypage {
-    padding-bottom: 30px;
-    border-bottom: 1px solid #ccc;
 }
 
 
@@ -385,22 +377,22 @@ h5,
 h6 {
     text-rendering: optimizelegibility;
     font-weight: bold;
-    font-family: 'Open Sans', "Helvetica Neue", "Helvetica", Arial, sans-serif;
+
 }
 
 h2 {
     margin: 0.83em 0;
-    color: green;
+    color: #675f5f;
     padding-top: 40px;
     margin-top: -25px;
 }
 
 h3 {
-    color: #9C4C17;
+    color: #675f5f;
 }
 
 h4 {
-    color: #B94A48;
+    color: #675f5f;
 }
 
 .page-header {
@@ -425,7 +417,8 @@ h4 {
    ========================================================================== */
 
 .page .entry {
-    padding-top: 10px 0;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 
 .page .entry .hidden {
@@ -442,20 +435,19 @@ h4 {
 
 .page h3.title {
     position: relative;
-    padding: 2px 5px 5px 5px;
-    border-top: 3px solid #ccc;
     font-size: 1.9em;
-    font-weight: normal;
-    ;
-    background-color: #e5e5e5;
 }
 
 .page h3.title a {
     color: black;
 }
+.page h3.title a:focus, .page h3.title a:hover {
+    color: #808a96;
+    text-decoration: none;
+}
 
 .page h3.title div.article-title {
-    width: 80%;
+
 }
 
 .page h3.title div.date {
@@ -585,4 +577,16 @@ td {
 
 .cf {
     *zoom: 1;
+}
+
+/*My*/
+.divider {
+    padding-bottom: 25px;
+    border-bottom: 1px solid #e0e0e0;
+}
+
+.captio {
+    text-align: right;
+    font-style: oblique;
+    margin-bottom: 10px;
 }
